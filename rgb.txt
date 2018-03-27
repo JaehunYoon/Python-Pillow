@@ -1,0 +1,14 @@
+<Rainbow RGB value>
+
+Red (255, 0, 0)
+Orange (255, 127, 0)
+Yellow (255, 255, 0)
+Light Green (127, 255, 0)
+Green (0, 255, 0)
+Mint (0, 255, 127)
+Sky (0, 255, 255)
+Skyblue (0, 127, 255)
+Blue (0, 0, 255)
+Violet (127, 0, 255)
+Pink (255, 0, 255)
+Purple (255, 0, 127)
