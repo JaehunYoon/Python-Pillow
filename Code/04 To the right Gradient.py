@@ -1,8 +1,6 @@
 from PIL import Image, ImageDraw
 
-width, height = input("Please input width and height > ").split()
-width = int(width)
-height = int(height)
+width, height = map(int, input("Please input width and height > ").split())
 new = Image.new('RGB', (width, height), (0, 0, 0))
 draw = ImageDraw.Draw(new)
 
