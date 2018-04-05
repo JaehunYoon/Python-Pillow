@@ -8,7 +8,7 @@ Python3 라이브러리인 Pillow를 공부하기 위해 작성했습니다.
     * [Image.rotate](https://github.com/JaehunYoon/Python-Pillow/blob/master/Code/Reference/Image/Image.rotate)
     * [Image.thumbnail](https://github.com/JaehunYoon/Python-Pillow/blob/master/Code/Reference/Image/Image.thumbnail)
     * [Image.transpose](https://github.com/JaehunYoon/Python-Pillow/tree/master/Code/Reference/Image/Image.transpose)
-    * [나머지 모듈은 추후에 업데이트..](http://goodasd123.tistory.com/)
+    * [나머지 모듈은 추후에 업데이트..](https://github.com/JaehunYoon)
 
 * ImageDraw
     * [ImageDraw.arc](https://github.com/JaehunYoon/Python-Pillow/blob/master/Code/Reference/ImageDraw/Examples/Draw%20Arc/arc.py)
@@ -17,6 +17,6 @@ Python3 라이브러리인 Pillow를 공부하기 위해 작성했습니다.
     * [ImageDraw.line](https://github.com/JaehunYoon/Python-Pillow/tree/master/Code/Reference/ImageDraw/Examples/Draw%20Line)
     * [ImageDraw.polygon](https://github.com/JaehunYoon/Python-Pillow/blob/master/Code/Reference/ImageDraw/Examples/Draw%20Polygon/polygon.py)
     * [ImageDraw + ImageFont - getFont](https://github.com/JaehunYoon/Python-Pillow/tree/master/Code/Reference/ImageDraw/Examples/Draw%20Text)
-    * [나머지 모듈은 추후에 업데이트..](http://goodasd123.tistory.com/)
+    * [나머지 모듈은 추후에 업데이트..](https://github.com/JaehunYoon)
 
-* [나머지 모듈은 추후에 업데이트..](http://goodasd123.tistory.com/)
+* [나머지 모듈은 추후에 업데이트..](https://github.com/JaehunYoon)
