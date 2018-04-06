@@ -1,4 +1,4 @@
-# Python-Pillow
+﻿# Python-Pillow
 
 Python3 라이브러리인 Pillow를 공부하기 위해 작성했습니다.
 
@@ -18,5 +18,3 @@ Python3 라이브러리인 Pillow를 공부하기 위해 작성했습니다.
     * [ImageDraw.polygon](https://github.com/JaehunYoon/Python-Pillow/blob/master/Code/Reference/ImageDraw/Examples/Draw%20Polygon/polygon.py)
     * [ImageDraw + ImageFont - getFont](https://github.com/JaehunYoon/Python-Pillow/tree/master/Code/Reference/ImageDraw/Examples/Draw%20Text)
     * [나머지 모듈은 추후에 업데이트..](https://github.com/JaehunYoon)
-
-* [나머지 모듈은 추후에 업데이트..](https://github.com/JaehunYoon)
