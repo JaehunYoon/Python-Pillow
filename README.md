@@ -18,5 +18,5 @@ Python3 라이브러리인 Pillow를 공부하기 위해 작성했습니다.
     * [ImageDraw.polygon](https://github.com/JaehunYoon/Python-Pillow/blob/master/Code/Reference/ImageDraw/Examples/Draw%20Polygon/polygon.py)
     * [ImageDraw + ImageFont - getFont](https://github.com/JaehunYoon/Python-Pillow/tree/master/Code/Reference/ImageDraw/Examples/Draw%20Text)
     * [ImageDraw.rectangle](https://github.com/JaehunYoon/Python-Pillow/blob/master/Code/Reference/ImageDraw/Examples/Draw%20Rectangle/rectangle.py)
-    * [Image.pieslice](https://github.com/JaehunYoon/Python-Pillow/blob/master/Code/Reference/ImageDraw/Examples/Draw%20Pieslice/pieslice.py)
+    * [ImageDraw.pieslice](https://github.com/JaehunYoon/Python-Pillow/blob/master/Code/Reference/ImageDraw/Examples/Draw%20Pieslice/pieslice.py)
     * [나머지 모듈은 추후에 업데이트..](https://github.com/JaehunYoon)
